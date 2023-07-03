@@ -1,0 +1,13 @@
+func _ready():
+     var balas
+
+func _process(delta):
+     balas = 10
+     if botao_tiro for pressionado:
+          if balas >= 1:
+                instanciar bala
+        	balas -= 1
+     elif "R" for pressionado:
+          balas += 1
+     
+	
